@@ -1,0 +1,9 @@
+Csv
+
+producto,costo,precio,cantidad,fecha
+audifonos,10,20,5,2026-04-01
+cargador,5,12,8,2026-04-02
+mouse,8,18,4,2026-04-02
+teclado,15,30,3,2026-04-03
+audifonos,10,20,6,2026-04-03
+cargador,5,12,10,2026-04-04
